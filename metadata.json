@@ -1,0 +1,6 @@
+{
+  "name": "Girofy Painel",
+  "description": "Sistema interno de gestão de propostas e clientes para sites e sistemas digitais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
